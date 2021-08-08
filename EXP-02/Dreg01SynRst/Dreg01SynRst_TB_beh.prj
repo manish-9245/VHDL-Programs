@@ -1,0 +1,2 @@
+vhdl work "Dreg01SynRst.vhd"
+vhdl work "DregSynRst_TB.vhd"

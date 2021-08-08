@@ -1,0 +1,12 @@
+V3 6
+FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 1/gates/gates.vhd" 2021/08/05.20:12:43 P.20131013
+EN work/gates 1628270620 \
+      FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 1/gates/gates.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/gates/arch 1628270621 \
+      FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 1/gates/gates.vhd" \
+      EN work/gates 1628270620
+FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/gates/gates.vhd" 2021/08/05.20:12:43 P.20131013
+AR work/ALLGATES_SOURCE/dataflow 1628174477 \
+      FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/gates/gates.vhd" \
+      EN work/ALLGATES_SOURCE 1628174476

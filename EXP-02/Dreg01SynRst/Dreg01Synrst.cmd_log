@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "C:/VHDL programming/Dreg01SynRst/Dreg01Synrst.xst" -ofn "C:/VHDL programming/Dreg01SynRst/Dreg01Synrst.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "Dreg01Synrst.ngc" Dreg01Synrst.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Dreg01Synrst_map.ncd Dreg01Synrst.ngd Dreg01Synrst.pcf 
+par -w -intstyle ise -ol high -t 1 Dreg01Synrst_map.ncd Dreg01Synrst.ncd Dreg01Synrst.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Dreg01Synrst.twx Dreg01Synrst.ncd -o Dreg01Synrst.twr Dreg01Synrst.pcf 
+xst -intstyle ise -ifn "C:/VHDL programming/Dreg01SynRst/Dreg01SynRst.xst" -ofn "C:/VHDL programming/Dreg01SynRst/Dreg01SynRst.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "Dreg01SynRst.ngc" Dreg01SynRst.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Dreg01SynRst_map.ncd Dreg01SynRst.ngd Dreg01SynRst.pcf 
+par -w -intstyle ise -ol high -t 1 Dreg01SynRst_map.ncd Dreg01SynRst.ncd Dreg01SynRst.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Dreg01SynRst.twx Dreg01SynRst.ncd -o Dreg01SynRst.twr Dreg01SynRst.pcf 

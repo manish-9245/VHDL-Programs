@@ -1,0 +1,28 @@
+Command line:
+   Treg01SynRst_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57183
+
+Mon Aug 09 01:21:29 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5466.55 Meg
+
+ Total Signals          : 10
+ Total Nets             : 6
+ Total Signal Drivers   : 6
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 5
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 367
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5466.55 Meg
+
+Mon Aug 09 01:21:39 2021
+

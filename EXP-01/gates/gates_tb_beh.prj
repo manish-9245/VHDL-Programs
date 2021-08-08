@@ -1,0 +1,2 @@
+vhdl work "gates.vhd"
+vhdl work "gates_tb.vhd"

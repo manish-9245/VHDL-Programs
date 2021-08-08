@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.xst" -ofn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "Dreg01AsynRst.ngc" Dreg01AsynRst.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Dreg01AsynRst_map.ncd Dreg01AsynRst.ngd Dreg01AsynRst.pcf 
+par -w -intstyle ise -ol high -t 1 Dreg01AsynRst_map.ncd Dreg01AsynRst.ncd Dreg01AsynRst.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Dreg01AsynRst.twx Dreg01AsynRst.ncd -o Dreg01AsynRst.twr Dreg01AsynRst.pcf 
+xst -intstyle ise -ifn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.xst" -ofn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.syr" 
+xst -intstyle ise -ifn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.xst" -ofn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.syr" 
+xst -intstyle ise -ifn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.xst" -ofn "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "Dreg01AsynRst.ngc" Dreg01AsynRst.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Dreg01AsynRst_map.ncd Dreg01AsynRst.ngd Dreg01AsynRst.pcf 
+par -w -intstyle ise -ol high -t 1 Dreg01AsynRst_map.ncd Dreg01AsynRst.ncd Dreg01AsynRst.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Dreg01AsynRst.twx Dreg01AsynRst.ncd -o Dreg01AsynRst.twr Dreg01AsynRst.pcf 

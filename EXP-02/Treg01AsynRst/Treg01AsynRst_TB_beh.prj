@@ -1,0 +1,2 @@
+vhdl work "Treg01AsynRst.vhd"
+vhdl work "Treg01AsynRst_TB.vhd"

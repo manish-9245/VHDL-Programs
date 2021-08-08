@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/VHDL programming/FA01/FA01_TB_isim_beh.exe" -prj "C:/VHDL programming/FA01/FA01_TB_beh.prj" "work.FA01_TB" 
