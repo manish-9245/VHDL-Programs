@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/tb_adder_isim_beh.exe" -prj "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/tb_adder_beh.prj" "work.tb_adder" 

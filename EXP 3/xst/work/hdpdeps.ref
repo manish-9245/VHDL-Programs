@@ -1,0 +1,17 @@
+V3 9
+FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/cla/cla_adder.vhd" 2021/08/05.21:22:40 P.20131013
+FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/cla/cla_block.vhd" 2021/08/05.21:22:40 P.20131013
+FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_adder.vhd" 2021/08/05.21:22:40 P.20131013
+EN work/cla_adder 1628220448 \
+      FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_adder.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/cla_adder/Behavioral 1628220449 \
+      FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_adder.vhd" \
+      EN work/cla_adder 1628220448 CP cla_block
+FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_block.vhd" 2021/08/05.21:22:40 P.20131013
+EN work/cla_block 1628220446 \
+      FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_block.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/cla_block/Behavioral 1628220447 \
+      FL "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_block.vhd" \
+      EN work/cla_block 1628220446

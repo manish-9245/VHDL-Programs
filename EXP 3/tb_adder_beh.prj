@@ -1,0 +1,3 @@
+vhdl work "cla_block.vhd"
+vhdl work "cla_adder.vhd"
+vhdl work "cla_tb.vhd"
