@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/CLA04/CLAA4.xst" -ofn "C:/VHDL programming/ALL/CLA04/CLAA4.syr" 
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/CLA04/CLAA4.xst" -ofn "C:/VHDL programming/ALL/CLA04/CLAA4.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "CLAA4.ngc" CLAA4.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o CLAA4_map.ncd CLAA4.ngd CLAA4.pcf 
+par -w -intstyle ise -ol high -t 1 CLAA4_map.ncd CLAA4.ncd CLAA4.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml CLAA4.twx CLAA4.ncd -o CLAA4.twr CLAA4.pcf 
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/CLA04/CLAA4.xst" -ofn "C:/VHDL programming/ALL/CLA04/CLAA4.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "CLAA4.ngc" CLAA4.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o CLAA4_map.ncd CLAA4.ngd CLAA4.pcf 
+par -w -intstyle ise -ol high -t 1 CLAA4_map.ncd CLAA4.ncd CLAA4.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml CLAA4.twx CLAA4.ncd -o CLAA4.twr CLAA4.pcf 
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/CLA04/CLAA4.xst" -ofn "C:/VHDL programming/ALL/CLA04/CLAA4.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "CLAA4.ngc" CLAA4.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o CLAA4_map.ncd CLAA4.ngd CLAA4.pcf 
+par -w -intstyle ise -ol high -t 1 CLAA4_map.ncd CLAA4.ncd CLAA4.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml CLAA4.twx CLAA4.ncd -o CLAA4.twr CLAA4.pcf 
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/CLA04/CLAA4.xst" -ofn "C:/VHDL programming/ALL/CLA04/CLAA4.syr" 
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/CLA04/CLAA4.xst" -ofn "C:/VHDL programming/ALL/CLA04/CLAA4.syr" 

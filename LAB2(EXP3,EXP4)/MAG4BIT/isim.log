@@ -1,0 +1,8 @@
+ISim log file
+Running: C:\VHDL programming\ALL\MAG4BIT\ncc4_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/VHDL programming/ALL/MAG4BIT/ncc4_tb_isim_beh.wdb 
+Time resolution is 1 fs
+# onerror resume
+# wave add /
+No active Database
+# run 1000 ns
+Unable to execute live simulation command.

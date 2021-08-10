@@ -1,0 +1,3 @@
+vhdl work "../Partial_FA/Partial_FA.vhd"
+vhdl work "CLAA04.vhd"
+vhdl work "CLAA04_TB.vhd"

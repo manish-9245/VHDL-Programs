@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/MAG4BIT/ncc4.xst" -ofn "C:/VHDL programming/ALL/MAG4BIT/ncc4.syr" 

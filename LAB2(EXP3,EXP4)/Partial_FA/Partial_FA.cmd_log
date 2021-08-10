@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/Partial_FA/Partial_FA.xst" -ofn "C:/VHDL programming/ALL/Partial_FA/Partial_FA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "Partial_FA.ngc" Partial_FA.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Partial_FA_map.ncd Partial_FA.ngd Partial_FA.pcf 
+par -w -intstyle ise -ol high -t 1 Partial_FA_map.ncd Partial_FA.ncd Partial_FA.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Partial_FA.twx Partial_FA.ncd -o Partial_FA.twr Partial_FA.pcf 
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/Partial_FA/Partial_FA.xst" -ofn "C:/VHDL programming/ALL/Partial_FA/Partial_FA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "Partial_FA.ngc" Partial_FA.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Partial_FA_map.ncd Partial_FA.ngd Partial_FA.pcf 
+par -w -intstyle ise -ol high -t 1 Partial_FA_map.ncd Partial_FA.ncd Partial_FA.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Partial_FA.twx Partial_FA.ncd -o Partial_FA.twr Partial_FA.pcf 

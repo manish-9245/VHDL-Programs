@@ -1,0 +1,3 @@
+vhdl isim_temp "../Partial_FA/Partial_FA.vhd"
+vhdl isim_temp "CLAA04.vhd"
+vhdl isim_temp "CLAA04_TB.vhd"

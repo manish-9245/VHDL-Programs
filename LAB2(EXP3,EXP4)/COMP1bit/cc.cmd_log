@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/VHDL programming/ALL/COMP1bit/cc.xst" -ofn "C:/VHDL programming/ALL/COMP1bit/cc.syr" 
