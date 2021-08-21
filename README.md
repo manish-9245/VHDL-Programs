@@ -7,18 +7,17 @@ I struggled to get familiar to this language due to lack of proper content onlin
 - You firstly need to have Xillinx ISE Design Suit installled on your system.
 - After opening the software click on File -> New Project
 - Enter name of project and then select the configuration as
-    Device Family: Spartan3
-    Device:        xc3s50
-    Package:       pq208
-    Speed:         -4
-
-    Top-Level Source Type: HDL
-    Synthesis Tool: XST (VHDL/Verilog)
-    Simulator: ISim (VHDL/Verilog)
-    Preferred Language: VHDL
-    Property Specification in Project File: Store all values
-    Manual Compile Order: false
-    VHDL Source Analysis Standard: VHDL-93
+    - Device Family: Spartan3
+    - Device:        xc3s50
+    - Package:       pq208
+    - Speed:         -4
+    - Top-Level Source Type: HDL
+    - Synthesis Tool: XST (VHDL/Verilog)
+    - Simulator: ISim (VHDL/Verilog)
+    - Preferred Language: VHDL
+    - Property Specification in Project File: Store all values
+    - Manual Compile Order: false
+    - VHDL Source Analysis Standard: VHDL-93
 - Now click on Add Source and select the downloaded files.
 - Import these Files
 - Click on Simulation Radio Button
