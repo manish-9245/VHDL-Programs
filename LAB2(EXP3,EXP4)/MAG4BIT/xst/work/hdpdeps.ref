@@ -1,7 +1,0 @@
-V3 4
-FL "C:/VHDL programming/ALL/MAG4BIT/MAG4BIT.vhd" 2021/08/10.20:14:20 P.20131013
-EN work/ncc4 1628606662 FL "C:/VHDL programming/ALL/MAG4BIT/MAG4BIT.vhd" \
-      PB ieee/std_logic_1164 1381692176
-AR work/ncc4/arch 1628606663 \
-      FL "C:/VHDL programming/ALL/MAG4BIT/MAG4BIT.vhd" EN work/ncc4 1628606662 \
-      CP cc

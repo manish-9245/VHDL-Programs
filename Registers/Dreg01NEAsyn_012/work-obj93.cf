@@ -1,7 +1,0 @@
-v 4
-file . "Dreg01NEAsyn_012.vhd" "4e8e3052e54631aea4229f3d927a38d149726d2f" "20210604164057.683":
-  entity dreg01neasyn_012 at 1( 0) + 0 on 47;
-  architecture behaviour of dreg01neasyn_012 at 12( 237) + 0 on 48;
-file . "Dreg01NEAsyn_012_tb.vhd" "f44fc6e322987a0e27e494bd191cc3ba22d27366" "20210530040505.779":
-  entity dreg01neasyn_012_tb at 1( 0) + 0 on 45;
-  architecture arch01 of dreg01neasyn_012_tb at 7( 133) + 0 on 46;

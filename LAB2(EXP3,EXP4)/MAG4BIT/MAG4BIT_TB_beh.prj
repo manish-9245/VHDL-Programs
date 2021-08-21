@@ -1,3 +1,0 @@
-vhdl work "../COMP1bit/COMP1.vhd"
-vhdl work "MAG4BIT.vhd"
-vhdl work "MAG4BIT_TB.vhd"

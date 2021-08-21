@@ -1,3 +1,0 @@
-vhdl isim_temp "cla_block.vhd"
-vhdl isim_temp "cla_adder.vhd"
-vhdl isim_temp "cla_tb.vhd"

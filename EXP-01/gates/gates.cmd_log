@@ -1,2 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/gates/gates.xst" -ofn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/gates/gates.syr" 
-xst -intstyle ise -ifn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 1/gates/gates.xst" -ofn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 1/gates/gates.syr" 

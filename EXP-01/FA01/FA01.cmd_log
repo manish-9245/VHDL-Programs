@@ -1,5 +1,0 @@
-xst -intstyle ise -ifn "C:/VHDL programming/FA01/FA01.xst" -ofn "C:/VHDL programming/FA01/FA01.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "FA01.ngc" FA01.ngd  
-map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o FA01_map.ncd FA01.ngd FA01.pcf 
-par -w -intstyle ise -ol high -t 1 FA01_map.ncd FA01.ncd FA01.pcf 
-trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml FA01.twx FA01.ncd -o FA01.twr FA01.pcf 

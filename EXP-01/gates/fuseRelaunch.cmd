@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 1/gates/gates_tb_isim_beh.exe" -prj "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 1/gates/gates_tb_beh.prj" "work.gates_tb" 

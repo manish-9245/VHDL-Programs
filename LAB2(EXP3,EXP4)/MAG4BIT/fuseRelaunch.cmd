@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/VHDL programming/ALL/MAG4BIT/ncc4_tb_isim_beh.exe" -prj "C:/VHDL programming/ALL/MAG4BIT/ncc4_tb_beh.prj" "work.ncc4_tb" 

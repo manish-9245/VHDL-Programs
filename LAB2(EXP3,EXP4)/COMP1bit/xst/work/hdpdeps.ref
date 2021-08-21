@@ -1,8 +1,0 @@
-V3 6
-FL "C:/VHDL programming/ALL/COMP1bit/COMP1.vhd" 2021/08/10.20:12:08 P.20131013
-AR work/cc_tb/archtb 0 FL "C:/VHDL programming/ALL/COMP1bit/COMP1.vhd" \
-      EN work/cc_tb 0 CP CC
-EN work/cc 1628606530 \
-      FL "C:/VHDL programming/ALL/COMP1bit/COMP1.vhd" PB ieee/std_logic_1164 1381692176
-AR work/cc/arch 1628606531 \
-      FL "C:/VHDL programming/ALL/COMP1bit/COMP1.vhd" EN work/cc 1628606530

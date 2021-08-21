@@ -1,5 +1,0 @@
-xst -intstyle ise -ifn "C:/VHDL programming/JK01/jk01.xst" -ofn "C:/VHDL programming/JK01/jk01.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 "jk01.ngc" jk01.ngd  
-map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o jk01_map.ncd jk01.ngd jk01.pcf 
-par -w -intstyle ise -ol high -t 1 jk01_map.ncd jk01.ncd jk01.pcf 
-trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml jk01.twx jk01.ncd -o jk01.twr jk01.pcf 

@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst_TB_isim_beh.exe" -prj "C:/VHDL programming/Dreg01AsynRst/Dreg01AsynRst_TB_beh.prj" "work.Dreg01AsynRst_TB" 

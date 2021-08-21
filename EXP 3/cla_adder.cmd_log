@@ -1,2 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/cla/cla_adder.xst" -ofn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/cla/cla_adder.syr" 
-xst -intstyle ise -ifn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_adder.xst" -ofn "C:/Users/ASHISH KUMAR/Desktop/DD LAB/EXP 3/cla_adder.syr" 
